@@ -1,5 +1,5 @@
-# Challenge-Day-1
-Magic Page Challenge
+# Magic Page Challenge
+
 In today's challenge, you will apply everything you learned so far to try and see to what use all concepts you discovered so far.
 We will proceed to create a magic page, using the elements we studied before.
 First up, set up an empty index.html file in a website folder.
@@ -33,4 +33,3 @@ After downloading the file and placing it inside your folder, proceed to add thi
   <link rel="stylesheet" href="styles.css">
 Save and refresh your page!
 
-Impressive huh? Do not pay too much attention to the file you added right now, we will come back to that later.
